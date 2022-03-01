@@ -38,4 +38,14 @@ ls-li
 ls-lr
 ls-ltr
 ls-lt
-
+cut 
+useradd
+userdel
+log --oneline 
+ln
+ln -s 
+ps 
+du 
+du -f
+free
+top 
